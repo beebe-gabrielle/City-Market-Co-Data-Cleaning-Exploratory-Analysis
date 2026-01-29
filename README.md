@@ -4,7 +4,7 @@
 
 # Retail Sales Analysis
 
-#### Analyzing a retail companies (__insert years here__) transactional data. Tableau dashboard can be found here (__insert link__):
+#### Analyzing a retail companies 2023-2025 transactional data. Tableau dashboard can be found here (__insert link__):
 
 ### (__insert dashboard image)
 
