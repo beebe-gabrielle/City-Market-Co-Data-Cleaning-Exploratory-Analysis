@@ -7,20 +7,20 @@
 Tableau dashboard can be found here: (__insert link__)
 
 # Purpose
-City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2023-2025 have been standardized and visualized, providing the team with access to critical metrics; Metrics that will allow us to evaluate the following questions:
+City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2023-2025 have been standardized and visualized, providing the team with access to critical metrics that will allow the following questions to be evaluated:
 
-* **Which territories perform best?**
-* **Which products perform best?**
+* **Which territories performed best?**
+* **Which products performed best?**
 * **How has total revenue changed year over year?**
 * **How do sales vary by customer segment and sales channel?**
 
 # Key Metrics
 
-* **Total Revenue:** Core metric, tracks gross sales and net sales over time (daily, weekly, monthly)
+* **Total Revenue:** Core metric, tracks gross sales and net sales over time
 * **Total Profit:** Measure of profitability and efficiency
 * **Return Rate:** Percentage of products returned, indicating potential product or service issues
 * **Sales by Category:** Identifies top-performing products, high-margin items, and inventory velocity
-* **Customer Satisfaction Score (CSAT):** Measures the degree to which customers are happy with the products
+* **Customer Satisfaction Score (CSAT):** Measures the degree to which customers are happy with their products
 * **Customer Lifetime Value (CLV):** Estimated total revenue a business can expect from a single customer throughout the entire relationship
 
 # Summary of Insights
