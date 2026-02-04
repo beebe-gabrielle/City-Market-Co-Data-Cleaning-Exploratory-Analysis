@@ -7,7 +7,7 @@
 Tableau dashboard can be found here: (__insert link__)
 
 # Purpose
-City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2023-2025 have been standardized and visualized, providing the team with access to critical metrics...
+City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2023-2025 have been standardized and visualized, providing the team with access to critical metrics; Metrics that will allow us to evaluate the following questions:
 
 * **Which territories perform best?**
 * **Which products perform best?**
