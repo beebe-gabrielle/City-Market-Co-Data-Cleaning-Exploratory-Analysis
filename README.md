@@ -11,7 +11,7 @@ City Market Co. is a ficticious retail company that sells various products in mu
 
 * **Which territories performed best?**
 * **Which products performed best?**
-* **How has total sales changed year over year?**
+* **How have total sales, profit changed year over year?**
 * **How do sales vary by customer segment and sales channel?**
 
 # Key Metrics
