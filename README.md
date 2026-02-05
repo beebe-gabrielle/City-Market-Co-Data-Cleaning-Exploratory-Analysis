@@ -26,6 +26,7 @@ City Market Co. is a ficticious retail company that sells various products in mu
 # Summary of Insights
 
 All from Tutorial (
+
 Sales Trends
 * Present the data for each KPI on a monthly basis for both the current year and the previous year.
 * Identify months with highest and lowest sales and make them easy to recognize.
