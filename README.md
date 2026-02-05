@@ -11,12 +11,12 @@ City Market Co. is a ficticious retail company that sells various products in mu
 
 * **Which territories performed best?**
 * **Which products performed best?**
-* **How has total revenue changed year over year?**
+* **How has total sales changed year over year?**
 * **How do sales vary by customer segment and sales channel?**
 
 # Key Metrics
 
-* **Total Revenue:** Core metric, tracks gross sales and net sales over time
+* **Total Sales:** Core metric, tracks gross sales and net sales over time
 * **Total Profit:** Measure of profitability and efficiency
 * **Return Rate:** Percentage of products returned, indicating potential product or service issues
 * **Sales by Category:** Identifies top-performing products, high-margin items, and inventory velocity
