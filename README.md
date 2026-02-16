@@ -41,7 +41,8 @@ Weekly Trends for Sales & Profit
 
 ) END
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/1f05f6b6-dbb3-47a0-a3d2-af2e07d352cc" />
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/4eadc799-de9f-446a-a46e-b0cb8d1d3d7b" />
+
 
 
 # Recommendations & Next Steps
