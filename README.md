@@ -7,21 +7,20 @@
 Tableau dashboard can be found here: (__insert link__)
 
 # Purpose
-City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2021-2025 have been standardized and visualized, providing the team with access to critical metrics that will be evaluated to answer the following questions:
+City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2021-2025 have been cleaned, standardized, and visualized in Tableau. This analysis and dashboard will provide critical metrics and information to the City Market team that will be used to answer the following business questions:
 
-* **Which territories performed best?**
-* **Which products performed best?**
-* **How have total sales, profit changed year over year?**
-* **How do sales vary by customer segment and sales channel?**
+* **Which stores perform the best in each Region?**
+* **Which category of products yeild the highest sales and which categories yeild the highest profit?**
+* **How have total sales and profit changed year over year?**
+* **How do sales vary monthly by customer segment?**
+* **Which category of products have the highest return rates?**
 
 # Key Metrics
 
-* **Total Sales:** Core metric, tracks gross sales and net sales over time
+* **Net Sales:** Core metric, tracks gross sales and net sales over time
 * **Total Profit:** Measure of profitability and efficiency
 * **Return Rate:** Percentage of products returned, indicating potential product or service issues
-* **Sales by Category:** Identifies top-performing products, high-margin items, and inventory velocity
-* **Customer Satisfaction Score (CSAT):** Measures the degree to which customers are happy with their products
-* **Customer Lifetime Value (CLV):** Estimated total revenue a business can expect from a single customer throughout the entire relationship
+* **Sales/Profit by Category:** Identifies top-performing products, high-margin items, and inventory velocity
 
 # Summary of Insights
 
