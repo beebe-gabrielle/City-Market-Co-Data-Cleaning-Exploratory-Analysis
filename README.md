@@ -7,49 +7,62 @@
 Tableau dashboard can be found here: (__insert link__)
 
 # Purpose
-City Market Co. is a ficticious retail company that sells various products in multiple stores across four regions. The purpose of this analysis is to assist the sales team and other stakeholders track growth, spot trends, and identify opportunities. 60,000 transactional sales records from years 2021-2025 have been cleaned, standardized, and visualized in Tableau. This analysis and dashboard will provide critical metrics and information to the City Market team that will be used to answer the following business questions:
+City Market Co. is a fictitious retail company operating twenty stores across four geographic regions. This analysis was conducted to help management and stakeholders evaluate overall company performance, identify trends, and uncover operational improvement opportunities.
 
-* **Which stores perform the best in each Region?**
-* **Which category of products yeild the highest sales and which categories yeild the highest profit?**
-* **How have total sales and profit changed year over year?**
-* **How do sales vary monthly by customer segment?**
-* **Which category of products have the highest return rates?**
+Transactional data from 2021–2025 was audited, cleaned, and standardized in Excel, then modeled and visualized in an interactive Tableau dashboard. The dashboard is designed to answer the following operational and financial questions: 
 
-# Key Metrics
+* **Which stores and regions are driving revenue and profitability, and how consistent is performance across locations?**
 
-* **Net Sales:** Core metric, tracks gross sales and net sales over time
-* **Total Profit:** Measure of profitability and efficiency
-* **Return Rate:** Percentage of products returned, indicating potential product or service issues
-* **Sales/Profit by Category:** Identifies top-performing products, high-margin items, and inventory velocity
+* **Are there product categories that generate high sales but low profitability, and which categories provide strong margins?**
 
-# Summary of Insights
+* **How have sales and profit changed year over year, and is company growth improving or weakening?**
 
-All from Tutorial (
+* **How does purchasing behavior vary by customer segment over time, and which segments are responsible for seasonal growth?**
 
-Sales Trends
-* Present the data for each KPI on a monthly basis for both the current year and the previous year.
-* Identify months with highest and lowest sales and make them easy to recognize.
+* **Which product categories experience the highest return rates, and how might return behavior be affecting profitability?**
 
-Product Subcategory Comparison
-* Compare sales performance by different product subcategories for the current year and the previous year.
-* Include a comparison of sales with profit.
+* **Is revenue growth translating into improved profitability, or are margins declining over time?**
 
-Weekly Trends for Sales & Profit
-* Present weekly sales and profit data for the current year.
-* Display the average weekly values.
-* Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+# Tools Used
 
-) END
+**Excel** - Data Cleaning, Validation, Calculations
 
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/4eadc799-de9f-446a-a46e-b0cb8d1d3d7b" />
+**Tableau** - Data Modeling, Visualization, Dashboard
+
+**GitHub** - Documentation, Version Control
+
+# Tableau Dashboard Overview
+
+I've created a dashboard in Tableau that can be filtered by year to evaluate performance across four areas:
+* Company financial performance
+* Customer behavior
+* Product performance
+* Store and regional performance
+
+Key visualitions include:
+* **KPI card for Net Sales and Profit:** Summerizes and compares overall performance of the selected year to the previous year.
+  
+* **Monthly growth trends by customer segments:** Tracks month-over-month sales changes for each customer segment.
+  
+* **Return rate by product subcategory:** Measures the percentage of transactions that result in a return.
+  
+* **Sales heatmap by product:** Compares product subcategories across time.
+  * Color intesity to represent sales volume: ligheter colors = lower profit / darker color = higher profit
+  * The size of each square represents total sales: smaller suqare = lower profit / bigger square = higher profit
+    
+* **Regional store performance:** Compares total sales across stores and regions.
+
+<p></p>
+
+# Tableau Dashboard
+
+<img width="900" height="650" alt="image" src="https://github.com/user-attachments/assets/4eadc799-de9f-446a-a46e-b0cb8d1d3d7b" />
+
+# Key Findings
+
+# Recommendations 
+
+# Conclusion
 
 
-
-# Recommendations & Next Steps
-
-<img width="959" height="619" alt="image" src="https://github.com/user-attachments/assets/3d7a36a7-db1f-46b2-8acc-48aa8a5f9ffa" />
-
-<img width="861" height="605" alt="image" src="https://github.com/user-attachments/assets/4fb020c6-b3e8-4b28-8b83-3032a223c091" />
-
-https://rihab-feki.medium.com/end-to-end-tableau-project-how-to-build-a-sales-performance-dashboard-a6aa464c0eab
 
