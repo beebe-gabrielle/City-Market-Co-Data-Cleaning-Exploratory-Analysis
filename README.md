@@ -54,9 +54,11 @@ Key visualitions include:
 
 <p></p>
 
-# Tableau Dashboard
+# Tableau Dashboards
 
-<img width="900" height="650" alt="image" src="https://github.com/user-attachments/assets/4eadc799-de9f-446a-a46e-b0cb8d1d3d7b" />
+<img width="1182" height="790" alt="image" src="https://github.com/user-attachments/assets/e98263cd-5f59-48c1-a0cd-8b056a14e98c" />
+<p></p>
+<img width="1182" height="790" alt="image" src="https://github.com/user-attachments/assets/039109e9-4d56-494d-b797-0201dae1cba8" />
 
 # Key Findings
 
