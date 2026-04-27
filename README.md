@@ -1,6 +1,6 @@
-<p align="center">
-<img width="370" height="149" alt="image" src="https://github.com/user-attachments/assets/9ae04670-0520-4415-b404-0ae70f316e42" />
-</p>
+<img width="563" height="149" alt="image" src="https://github.com/user-attachments/assets/2afa87df-83bd-4df0-8b6d-37872eb1bcf8" />
+
+<p></p>
 
 # Sales & Product Performance Dashboard & Analysis
 
