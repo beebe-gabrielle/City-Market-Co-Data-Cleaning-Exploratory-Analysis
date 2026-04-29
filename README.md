@@ -11,7 +11,7 @@ City Market Co. is a fictitious retail company operating twenty stores across fo
 
 
 ## Objective
-The dashboards were designed to analyze overall sales and profitability performance to answer the following operational and financial questions: 
+The 'Sales Dashboard' and 'Product Dashboard' were designed to analyze overall sales and profitability performance to answer the following operational and financial questions: 
 
 * **Which cities and regions are driving the most profit, and where are we underperforming?**
 
