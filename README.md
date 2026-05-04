@@ -6,26 +6,6 @@
 
 Tableau Public Dashboard: (__insert link__)
 
-## Overview
-City Market Co. is a fictitious retail company operating twenty stores across four geographic regions. This analysis showcases an end-to-end workflow focused on business performance tracking across sales and product metrics. The goal was to design clean, decision-ready dashboards that highlight profitability, identify trends, and uncover operational improvement opportunities. 
-
-
-## Objective
-The 'Sales Dashboard' and 'Product Dashboard' were designed to analyze overall sales and profitability performance to answer the following operational and financial questions: 
-
-* **Which cities and regions are driving the most profit, and where are we underperforming?**
-
-* **Are high-revenue product categories also the most profitable?**
-
-* **How is the business trending year-over-year?**
-
-* **What seasonal patterns exist in sales and profit across months?**
-
-* **Which product subcategories deliver strong margins vs. weak returns?**
-
-* **Is revenue growth translating into stronger profit margins?**
-
-
 ## Tools Used
 
 **Excel** - Data Cleaning, Validation, Calculations
@@ -35,9 +15,29 @@ The 'Sales Dashboard' and 'Product Dashboard' were designed to analyze overall s
 **GitHub** - Documentation, Version Control
 
 
+## Overview
+City Market Co. is a fictitious retail company operating 20 stores across four geographic regions. This project delivers an end-to-end analysis of sales and product performance, with a focus on building intuitive, decision-ready dashboards.
+
+The dashboards are designed to surface profitability drivers, highlight performance trends, and pinpoint areas of operational inefficiency. 
+
+## Objective
+
+This analysis aims to translate raw sales data into actionable insights that support strategic decision-making. The dahsboard are structured to help stakeholders quickly evaluate performance, identify risks, and uncover growth opportunities.
+
+Key business questions addressed:
+
+* **Which cities and regions are driving the most profit, and where are we underperforming?**
+
+* **How is the business trending year-over-year?**
+
+* **What seasonal patterns exist in sales and profit across months?**
+
+* **Which product subcategories deliver strong margins vs. weak returns?**
+
+
 # Tableau Sales Dashboard Overview
 
-<img width="1182" height="790" alt="image" src="https://github.com/user-attachments/assets/e98263cd-5f59-48c1-a0cd-8b056a14e98c" />
+<img width="1164" height="784" alt="image" src="https://github.com/user-attachments/assets/726e2594-666a-45d7-ab2f-c395e22cc3d7" />
 
 <p></p>
 
