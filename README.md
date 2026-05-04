@@ -35,26 +35,33 @@ Key business questions addressed:
 * **Which product subcategories deliver strong margins vs. weak returns?**
 
 
-# Tableau Sales Dashboard Overview
-
+# Sales Dashboard 
 <img width="1164" height="784" alt="image" src="https://github.com/user-attachments/assets/726e2594-666a-45d7-ab2f-c395e22cc3d7" />
 
 <p></p>
 
-## Key visualitions include:
 
-* **KPI card for Net Sales/ Net Profit/ Profit Margin/ Total Orders:** Summerizes and compares overall performance of the selected year to the previous year.
+## Key Insights:
 
-* **Top and Bottom 5 Cities by Profit tables**: Highlights both the highest- and lowest-performing cities based on total profit and profit margin, allowing for quick comparison of strong markets versus underperforming locations.
+**Growth is steady, but slowing**
+Net Sales ($16.9M) and Net Profit ($3.6M) are both up YoY, but growth has tapered from ~8.9% to 6.3%.
+Momentum is positive, just decelerating.
 
-* **YoY Sales Growth % line chart:** Visualizes year-over-year sales trends to assess whether growth is accelerating or slowing over time.
+**Profitablility is strong overall**
+A 21.07% profit margin (up 1.4% vs. prior year) indicates the business is becoming more profitable. Drivers behind that improvement warrant further investigation. 
 
-* **Monthly Sales vs Profit bar and line chart:** Compares revenue and profit across months to reveal seasonality patterns and gaps between sales and profitability.
+**Profit is concentrated in Northeast cities**
+New York, Philadelphia, and Boston lead in total profit, indicating the Northeast is the primary proit engine. 
 
-* **Monthly Profit by City heatmap:** Displays profit performance across cities and months, making it easy to spot consistent performers, volatility, and seasonal trends.
-<p></p>
+**Underperforming cities are spread across regions**
+Bottom performers (Charlotte, Phoenix, Los Angeles) are not isolated to one region, pointing to city-level execution issues rather than regional strategy alone. 
 
-## Insights
+**Sales peak late in the year, but profit lags until year-end**
+Sales climb through Q4, but profit only spikes sharply in December, suggesting margin pressure during peak sales months.
+
+**Monthly performance is inconsistent across stores**
+The heatmap shows that nearly every store struggles in January and February, with profit turning negative or flat across all locations. Performance builds through the year and peaks in Q4, indicating a heavy reliance on holiday/seasonal sales to drive annual profitability. 
+
 
 # Tableau Products Dashboard Overview
 
