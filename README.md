@@ -75,10 +75,10 @@ The heatmap shows that nearly every store struggles in January and February, wit
 Units Sold (+5.3% YoY) increased meaningfully, while Average Order Value (+0.4%) remained nearly flat. Growth is being driven by volume, not higher-value transactions.
 
 **Profit per order is improving, but modestly**
-Average profit per order rose 1.8% YoY, indicating slight margin gains, though not at the same pace as unit growth.
+Average Profit per Order rose 1.8% YoY, indicating slight margin gain though not at the same pace as unit growth, suggesting the business is scaling volume faster than it is scailing value. 
 
 **High-margin subcategories are not always top profit drivers**
-Some of the highest margin categories (e.g. Phones, Outdoor) are strong contributors, but others with high margins (e.g. Decor, Beverages) sall into low total profit suggesting low sales volume is limiting impact. 
+Some of the highest margin categories (e.g. Phones 35.2%, Outdoor 32.2%) are strong contributors, but others with high margins (e.g. Decor 36%, Furniture 33.5%) fall into low total profit suggesting low sales volume is limiting impact. 
 
 **Low-margin categories are dragging overall profitability**
 subcategories like Accessories (15.4%) and Games (9.8%) generate weak margins and contribute to the bottom tier of profit performance, making them clear targets for pricing or cost optimization.
@@ -87,10 +87,10 @@ subcategories like Accessories (15.4%) and Games (9.8%) generate weak margins an
 Educational, Laptops, and Kitchen lead in total profit, indicating a reliance on a small group of categories to drive overall product profitiability.
 
 **Clear gaps between high-sales and high-margin segments**
-The scatterplot shows multiple subcategories with strong sales but below-average margins, reinforcing a tradeoff between volume and profitability that is not being fully optimized.
+The scatterplot shows several subcategories sitting above teh average margine line but but left of the average sales line (high margin, low volume) reoresenting the clearest growth opportunites. Subcategories below average profit margin but right of average sales are generating volume without proportional profitability. 
 
 **Seasonal demand varies significantly by subcategory**
-The heatmap highlights inconsistent monthly performance across subcategories, with some (e.g. Kids, Snacks, Chairs) showing weak or negative profit periods, while others maintain steadier contributions, pointing to opportunities for better category-level planning and promotion timing. 
+The heatmap shows Menswear and Chairs having their worst profit in January and February before recovering later in the year. Top subcategories like Educational and Laptops show steady blue throught, suggesting their profitability is less seasonal and more structually driven.
 
 # Recommendations 
 
