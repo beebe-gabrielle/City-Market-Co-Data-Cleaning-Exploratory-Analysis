@@ -63,25 +63,34 @@ Sales climb through Q4, but profit only spikes sharply in December, suggesting m
 The heatmap shows that nearly every store struggles in January and February, with profit turning negative or flat across all locations. Performance builds through the year and peaks in Q4, indicating a heavy reliance on holiday/seasonal sales to drive annual profitability. 
 
 
-# Tableau Products Dashboard Overview
+# Products Dashboard 
 
-<img width="1182" height="790" alt="image" src="https://github.com/user-attachments/assets/039109e9-4d56-494d-b797-0201dae1cba8" />
+<img width="1164" height="784" alt="image" src="https://github.com/user-attachments/assets/688fc216-6984-41d4-9011-d390ea20c6f7" />
 
 <p></p>
 
-## Key visualitions include:
+## Key Findings 
 
-* **KPI cards for Units Sold / Avg Order Value / Avg Profit per Order / Return Rate:** Summarizes overall product performance and compares key metrics to the previous year.
-  
-* **Top and Bottom 5 Subcategories by Profit tables:** Highlights the highest- and lowest-performing subcategories based on total profit and profit margin, enabling quick comparison of strong versus underperforming product segments.
-  
-* **Profit Margin vs Sales scatter plot:** Compares profitability and revenue across subcategories to identify high-revenue/low-margin products and high-margin growth opportunities.
+**Unit growth is outpacing value growth**
+Units Sold (+5.3% YoY) increased meaningfully, while Average Order Value (+0.4%) remained nearly flat. Growth is being driven by volume, not higher-value transactions.
 
-* **Monthly Profit by Subcategory heatmap:** Displays profit performance across subcategories and months, making it easy to identify seasonality trends and consistently strong or weak product segments.
+**Profit per order is improving, but modestly**
+Average profit per order rose 1.8% YoY, indicating slight margin gains, though not at the same pace as unit growth.
 
-## Insights
+**High-margin subcategories are not always top profit drivers**
+Some of the highest margin categories (e.g. Phones, Outdoor) are strong contributors, but others with high margins (e.g. Decor, Beverages) sall into low total profit suggesting low sales volume is limiting impact. 
 
-# Key Takeaways
+**Low-margin categories are dragging overall profitability**
+subcategories like Accessories (15.4%) and Games (9.8%) generate weak margins and contribute to the bottom tier of profit performance, making them clear targets for pricing or cost optimization.
+
+**Profit performance is concentrated in a few key subcategories**
+Educational, Laptops, and Kitchen lead in total profit, indicating a reliance on a small group of categories to drive overall product profitiability.
+
+**Clear gaps between high-sales and high-margin segments**
+The scatterplot shows multiple subcategories with strong sales but below-average margins, reinforcing a tradeoff between volume and profitability that is not being fully optimized.
+
+**Seasonal demand varies significantly by subcategory**
+The heatmap highlights inconsistent monthly performance across subcategories, with some (e.g. Kids, Snacks, Chairs) showing weak or negative profit periods, while others maintain steadier contributions, pointing to opportunities for better category-level planning and promotion timing. 
 
 # Recommendations 
 
