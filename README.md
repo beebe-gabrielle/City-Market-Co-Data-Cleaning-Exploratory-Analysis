@@ -41,7 +41,7 @@ Key business questions addressed:
 <p></p>
 
 
-## Key Insights:
+## Key Insights
 
 **Growth is steady, but slowing**
 Net Sales ($16.9M) and Net Profit ($3.6M) are both up YoY, but growth has tapered from ~8.9% to 6.3%.
