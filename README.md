@@ -8,9 +8,11 @@ Tableau Public Dashboard: (__insert link__)
 
 ## Tools Used
 
+**Tableau** - Data Modeling, Visualization, Dashboard
+
 **Excel** - Data Cleaning, Validation, Calculations
 
-**Tableau** - Data Modeling, Visualization, Dashboard
+**Claude** - Data Syntheisizing, Data Cleaning
 
 **GitHub** - Documentation, Version Control
 
