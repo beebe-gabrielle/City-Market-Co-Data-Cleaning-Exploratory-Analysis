@@ -46,13 +46,13 @@ Key business questions addressed:
 ## Key Insights
 
 **Growth is steady, but slowing:**
-<p></p>
 Net Sales ($16.9M) and Net Profit ($3.6M) are both up YoY, but growth has tapered from ~8.9% to 6.3%.
 Momentum is positive, just decelerating.
+<p></p>
 
 **Profitablility is strong overall:**
-<p></p>
 A 21.07% profit margin (up 1.4% vs. prior year) indicates the business is becoming more profitable. Drivers behind that improvement warrant further investigation. 
+<p></p>
 
 **Profit is concentrated in Northeast cities:**
 <p></p>
