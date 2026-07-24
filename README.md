@@ -48,26 +48,20 @@ Key business questions addressed:
 **Growth is steady, but slowing:**
 Net Sales ($16.9M) and Net Profit ($3.6M) are both up YoY, but growth has tapered from ~8.9% to 6.3%.
 Momentum is positive, just decelerating.
-<p></p>
 
 **Profitablility is strong overall:**
 A 21.07% profit margin (up 1.4% vs. prior year) indicates the business is becoming more profitable. Drivers behind that improvement warrant further investigation. 
-<p></p>
 
 **Profit is concentrated in Northeast cities:**
-<p></p>
 New York, Philadelphia, and Boston lead in total profit, indicating the Northeast is the primary proit engine. 
 
 **Underperforming cities are spread across regions:**
-<p></p>
 Bottom performers (Charlotte, Phoenix, Los Angeles) are not isolated to one region, pointing to city-level execution issues rather than regional strategy alone. 
 
 **Sales peak late in the year, but profit lags until year-end:**
-<p></p>
 Sales climb through Q4, but profit only spikes sharply in December, suggesting margin pressure during peak sales months.
 
 **Monthly performance is inconsistent across stores:**
-<p></p>
 The heatmap shows that nearly every store struggles in January and February, with profit turning negative or flat across all locations. Performance builds through the year and peaks in Q4, indicating a heavy reliance on holiday/seasonal sales to drive annual profitability. 
 
 
@@ -77,7 +71,7 @@ The heatmap shows that nearly every store struggles in January and February, wit
 
 <p></p>
 
-## Key Findings 
+## Key Insights 
 
 **Unit growth is outpacing value growth**
 Units Sold (+5.3% YoY) increased meaningfully, while Average Order Value (+0.4%) remained nearly flat. Growth is being driven by volume, not higher-value transactions.
